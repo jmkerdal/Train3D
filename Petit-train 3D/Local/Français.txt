@@ -1,0 +1,134 @@
+[MENU]
+Fichier
+Nouveau
+Charger
+Enregistrer
+#Visualisation#
+Imprimantes
+Quitter
+Edition
+Train
+Couper
+Copier
+Coller
+Inventaire
+Wagons
+Décors
+Voie
+Ajoute
+Supprime
+Origine
+Rotation
+A propos
+Paramètres
+Séléction éléments
+Insere
+Inverse
+Efface
+[DRIVER]
+Sélection
+OK
+Driver
+Pas de texture dynamique
+Aucune définition de voies disponible
+Inserer le CD-ROM
+[EDITION]
+Voie
+Décor
+Valide
+Edition des éléments
+Rien
+Charge un décor
+Charge un wagon
+Charge une bogie
+Charge les rails
+Sauve les rails
+Liste des wagons
+Eccart entre les bogies
+Groupe A
+Groupe B
+Position des essieux
+Eccart essieux
+Longueur
+Réf
+Motrice
+Electrique
+Caméra
+Saisie des éléments séléctionnés
+Temps de lancements
+Charge un interieur
+[A PROPOS]
+À propos de
+Version
+Créé par Kerdal Jean-Michel
+Téléphone
+[INVENTAIRE]
+Inventaire des éléments du réseau
+Imprimer
+Taille de la planche
+Petit train 3D
+Nom du réseau
+Liste des éléments du réseau
+Erreur d'impression
+[PRINCIPALE]
+Mode actuelle
+Edition
+Visu.
+version Bêta
+Charge un réseau
+Sauve un réseau
+Confirmer l'effacement
+Il faut au moins un wagon pour démarrer
+Le train n'a pas de motrice
+Rotation du décor
+Angle en °
+Plein écran
+Vue dessus
+A bord
+Poursuite
+Rotation de la voie
+Voulez-vous remplacer ce fichier
+[SAISIE TRAIN]
+Composition du train
+Elevation
+Catenaire
+Inverse sens de départ
+Affiche le ciel
+[VUE]
+Vue du réseau
+Connecte
+sur
+Distance
+[VOIE]
+Saisie d'une voie
+Segment de voie
+Longueur
+Rayon
+Angle
+Rotation
+Taille
+Définition des points
+Offset
+Terminaison
+Jonction
+Connections
+Aiguillages
+Position caténaires
+N° Segment
+Position
+Sens
+Référence
+Libellé
+Voulez-vous effacer cette voie
+[RAIL]
+Rail droit
+Rail courbe
+Croisement
+Aiguillage
+Aiguillage courbe
+Double traverse jonction
+Heurtoir
+gauche
+droit
+triple
+Spécial

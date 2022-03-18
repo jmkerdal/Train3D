@@ -1,0 +1,316 @@
+03/10/01 15:29:46  0 Start application
+03/10/01 15:29:54  1 RGB Emulation
+03/10/01 15:29:54  1 IID_IDirect3DRGBDevice
+03/10/01 15:29:54  1 Microsoft Direct3D RGB Software Emulation
+03/10/01 15:29:54  0 Create DSound
+03/10/01 15:29:55  0 Load base wall definition
+03/10/01 15:29:59  0 Load tracks
+03/10/01 15:29:59  0 Create dynamic render engine
+03/10/01 15:29:59  256 Width
+03/10/01 15:29:59  256 Height
+03/10/01 15:30:01  1 Create track
+03/10/01 15:30:02  0 Texture size: 256 32
+03/10/01 15:30:02  0 Surface StretchBlt
+03/10/01 15:30:02  0 CreateTextureFromSurface
+03/10/01 15:30:02  0 Texture size: 256 32
+03/10/01 15:30:02  0 Surface StretchBlt
+03/10/01 15:30:02  0 CreateTextureFromSurface
+03/10/01 15:30:02  0 Texture size: 256 16
+03/10/01 15:30:02  0 Surface StretchBlt
+03/10/01 15:30:02  0 CreateTextureFromSurface
+03/10/01 15:30:02  2 Create track
+03/10/01 15:30:02  0 Texture size: 128 32
+03/10/01 15:30:02  0 Surface StretchBlt
+03/10/01 15:30:02  0 CreateTextureFromSurface
+03/10/01 15:30:02  0 Texture size: 128 32
+03/10/01 15:30:02  0 Surface StretchBlt
+03/10/01 15:30:02  0 CreateTextureFromSurface
+03/10/01 15:30:02  0 Texture size: 128 16
+03/10/01 15:30:02  0 Surface StretchBlt
+03/10/01 15:30:02  0 CreateTextureFromSurface
+03/10/01 15:30:02  3 Create track
+03/10/01 15:30:02  0 Texture size: 128 32
+03/10/01 15:30:02  0 Surface StretchBlt
+03/10/01 15:30:02  0 CreateTextureFromSurface
+03/10/01 15:30:03  0 Texture size: 128 32
+03/10/01 15:30:03  0 Surface StretchBlt
+03/10/01 15:30:03  0 CreateTextureFromSurface
+03/10/01 15:30:03  0 Texture size: 128 16
+03/10/01 15:30:03  0 Surface StretchBlt
+03/10/01 15:30:03  0 CreateTextureFromSurface
+03/10/01 15:30:03  4 Create track
+03/10/01 15:30:03  0 Texture size: 16 32
+03/10/01 15:30:03  0 Surface StretchBlt
+03/10/01 15:30:03  0 CreateTextureFromSurface
+03/10/01 15:30:03  0 Texture size: 16 32
+03/10/01 15:30:03  0 Surface StretchBlt
+03/10/01 15:30:03  0 CreateTextureFromSurface
+03/10/01 15:30:03  0 Texture size: 16 16
+03/10/01 15:30:03  0 Surface StretchBlt
+03/10/01 15:30:03  0 CreateTextureFromSurface
+03/10/01 15:30:03  5 Create track
+03/10/01 15:30:03  0 Texture size: 256 128
+03/10/01 15:30:03  0 Surface StretchBlt
+03/10/01 15:30:03  0 CreateTextureFromSurface
+03/10/01 15:30:03  0 Texture size: 256 128
+03/10/01 15:30:03  0 Surface StretchBlt
+03/10/01 15:30:03  0 CreateTextureFromSurface
+03/10/01 15:30:03  0 Texture size: 256 128
+03/10/01 15:30:03  0 Surface StretchBlt
+03/10/01 15:30:19  0 CreateTextureFromSurface
+03/10/01 15:30:20  6 Create track
+03/10/01 15:30:20  0 Texture size: 128 64
+03/10/01 15:30:20  0 Surface StretchBlt
+03/10/01 15:30:20  0 CreateTextureFromSurface
+03/10/01 15:30:20  0 Texture size: 128 64
+03/10/01 15:30:20  0 Surface StretchBlt
+03/10/01 15:30:20  0 CreateTextureFromSurface
+03/10/01 15:30:20  0 Texture size: 128 32
+03/10/01 15:30:20  0 Surface StretchBlt
+03/10/01 15:30:20  0 CreateTextureFromSurface
+03/10/01 15:30:20  7 Create track
+03/10/01 15:30:20  0 Texture size: 256 128
+03/10/01 15:30:20  0 Surface StretchBlt
+03/10/01 15:30:21  0 CreateTextureFromSurface
+03/10/01 15:30:21  0 Texture size: 256 128
+03/10/01 15:30:21  0 Surface StretchBlt
+03/10/01 15:30:21  0 CreateTextureFromSurface
+03/10/01 15:30:21  0 Texture size: 256 128
+03/10/01 15:30:21  0 Surface StretchBlt
+03/10/01 15:30:21  0 CreateTextureFromSurface
+03/10/01 15:30:21  8 Create track
+03/10/01 15:30:21  0 Texture size: 128 64
+03/10/01 15:30:21  0 Surface StretchBlt
+03/10/01 15:30:21  0 CreateTextureFromSurface
+03/10/01 15:30:21  0 Texture size: 128 64
+03/10/01 15:30:21  0 Surface StretchBlt
+03/10/01 15:30:21  0 CreateTextureFromSurface
+03/10/01 15:30:21  0 Texture size: 128 64
+03/10/01 15:30:21  0 Surface StretchBlt
+03/10/01 15:30:21  0 CreateTextureFromSurface
+03/10/01 15:30:21  9 Create track
+03/10/01 15:30:21  0 Texture size: 256 64
+03/10/01 15:30:21  0 Surface StretchBlt
+03/10/01 15:30:21  0 CreateTextureFromSurface
+03/10/01 15:30:21  0 Texture size: 256 64
+03/10/01 15:30:21  0 Surface StretchBlt
+03/10/01 15:30:21  0 CreateTextureFromSurface
+03/10/01 15:30:21  0 Texture size: 256 64
+03/10/01 15:30:21  0 Surface StretchBlt
+03/10/01 15:30:21  0 CreateTextureFromSurface
+03/10/01 15:30:21  10 Create track
+03/10/01 15:30:22  0 Texture size: 256 64
+03/10/01 15:30:22  0 Surface StretchBlt
+03/10/01 15:30:22  0 CreateTextureFromSurface
+03/10/01 15:30:22  0 Texture size: 256 64
+03/10/01 15:30:22  0 Surface StretchBlt
+03/10/01 15:30:22  0 CreateTextureFromSurface
+03/10/01 15:30:22  0 Texture size: 256 64
+03/10/01 15:30:22  0 Surface StretchBlt
+03/10/01 15:30:22  0 CreateTextureFromSurface
+03/10/01 15:30:22  11 Create track
+03/10/01 15:30:22  0 Texture size: 256 64
+03/10/01 15:30:22  0 Surface StretchBlt
+03/10/01 15:30:22  0 CreateTextureFromSurface
+03/10/01 15:30:22  0 Texture size: 256 64
+03/10/01 15:30:22  0 Surface StretchBlt
+03/10/01 15:30:22  0 CreateTextureFromSurface
+03/10/01 15:30:22  0 Texture size: 256 64
+03/10/01 15:30:22  0 Surface StretchBlt
+03/10/01 15:30:22  0 CreateTextureFromSurface
+03/10/01 15:30:22  12 Create track
+03/10/01 15:30:22  0 Texture size: 128 64
+03/10/01 15:30:22  0 Surface StretchBlt
+03/10/01 15:30:22  0 CreateTextureFromSurface
+03/10/01 15:30:22  0 Texture size: 128 64
+03/10/01 15:30:22  0 Surface StretchBlt
+03/10/01 15:30:22  0 CreateTextureFromSurface
+03/10/01 15:30:22  0 Texture size: 128 32
+03/10/01 15:30:22  0 Surface StretchBlt
+03/10/01 15:30:22  0 CreateTextureFromSurface
+03/10/01 15:30:22  13 Create track
+03/10/01 15:30:22  0 Texture size: 128 64
+03/10/01 15:30:22  0 Surface StretchBlt
+03/10/01 15:30:22  0 CreateTextureFromSurface
+03/10/01 15:30:22  0 Texture size: 128 64
+03/10/01 15:30:22  0 Surface StretchBlt
+03/10/01 15:30:22  0 CreateTextureFromSurface
+03/10/01 15:30:23  0 Texture size: 128 64
+03/10/01 15:30:23  0 Surface StretchBlt
+03/10/01 15:30:23  0 CreateTextureFromSurface
+03/10/01 15:30:23  14 Create track
+03/10/01 15:30:23  0 Texture size: 16 32
+03/10/01 15:30:23  0 Surface StretchBlt
+03/10/01 15:30:23  0 CreateTextureFromSurface
+03/10/01 15:30:23  0 Texture size: 16 32
+03/10/01 15:30:23  0 Surface StretchBlt
+03/10/01 15:30:23  0 CreateTextureFromSurface
+03/10/01 15:30:23  0 Texture size: 16 16
+03/10/01 15:30:23  0 Surface StretchBlt
+03/10/01 15:30:23  0 CreateTextureFromSurface
+03/10/01 15:30:23  15 Create track
+03/10/01 15:30:23  0 Texture size: 128 32
+03/10/01 15:30:23  0 Surface StretchBlt
+03/10/01 15:30:23  0 CreateTextureFromSurface
+03/10/01 15:30:23  0 Texture size: 128 32
+03/10/01 15:30:23  0 Surface StretchBlt
+03/10/01 15:30:23  0 CreateTextureFromSurface
+03/10/01 15:30:23  0 Texture size: 128 16
+03/10/01 15:30:23  0 Surface StretchBlt
+03/10/01 15:30:23  0 CreateTextureFromSurface
+03/10/01 15:30:23  16 Create track
+03/10/01 15:30:23  0 Texture size: 256 128
+03/10/01 15:30:23  0 Surface StretchBlt
+03/10/01 15:30:23  0 CreateTextureFromSurface
+03/10/01 15:30:23  0 Texture size: 256 128
+03/10/01 15:30:23  0 Surface StretchBlt
+03/10/01 15:30:23  0 CreateTextureFromSurface
+03/10/01 15:30:24  0 Texture size: 256 128
+03/10/01 15:30:24  0 Surface StretchBlt
+03/10/01 15:30:24  0 CreateTextureFromSurface
+03/10/01 15:30:24  17 Create track
+03/10/01 15:30:24  0 Texture size: 256 128
+03/10/01 15:30:24  0 Surface StretchBlt
+03/10/01 15:30:24  0 CreateTextureFromSurface
+03/10/01 15:30:24  0 Texture size: 256 128
+03/10/01 15:30:24  0 Surface StretchBlt
+03/10/01 15:30:24  0 CreateTextureFromSurface
+03/10/01 15:30:24  0 Texture size: 256 128
+03/10/01 15:30:24  0 Surface StretchBlt
+03/10/01 15:30:24  0 CreateTextureFromSurface
+03/10/01 15:30:24  18 Create track
+03/10/01 15:30:25  0 Texture size: 256 128
+03/10/01 15:30:25  0 Surface StretchBlt
+03/10/01 15:30:25  0 CreateTextureFromSurface
+03/10/01 15:30:25  0 Texture size: 256 128
+03/10/01 15:30:25  0 Surface StretchBlt
+03/10/01 15:30:25  0 CreateTextureFromSurface
+03/10/01 15:30:25  0 Texture size: 256 128
+03/10/01 15:30:25  0 Surface StretchBlt
+03/10/01 15:30:25  0 CreateTextureFromSurface
+03/10/01 15:30:25  19 Create track
+03/10/01 15:30:25  0 Texture size: 256 128
+03/10/01 15:30:25  0 Surface StretchBlt
+03/10/01 15:30:25  0 CreateTextureFromSurface
+03/10/01 15:30:26  0 Texture size: 256 128
+03/10/01 15:30:26  0 Surface StretchBlt
+03/10/01 15:30:26  0 CreateTextureFromSurface
+03/10/01 15:30:26  0 Texture size: 256 128
+03/10/01 15:30:26  0 Surface StretchBlt
+03/10/01 15:30:26  0 CreateTextureFromSurface
+03/10/01 15:30:26  20 Create track
+03/10/01 15:30:26  0 Texture size: 256 64
+03/10/01 15:30:26  0 Surface StretchBlt
+03/10/01 15:30:26  0 CreateTextureFromSurface
+03/10/01 15:30:26  0 Texture size: 256 64
+03/10/01 15:30:26  0 Surface StretchBlt
+03/10/01 15:30:26  0 CreateTextureFromSurface
+03/10/01 15:30:26  0 Texture size: 256 64
+03/10/01 15:30:26  0 Surface StretchBlt
+03/10/01 15:30:26  0 CreateTextureFromSurface
+03/10/01 15:30:26  21 Create track
+03/10/01 15:30:26  0 Texture size: 256 64
+03/10/01 15:30:26  0 Surface StretchBlt
+03/10/01 15:30:26  0 CreateTextureFromSurface
+03/10/01 15:30:27  0 Texture size: 256 64
+03/10/01 15:30:27  0 Surface StretchBlt
+03/10/01 15:30:27  0 CreateTextureFromSurface
+03/10/01 15:30:27  0 Texture size: 256 64
+03/10/01 15:30:27  0 Surface StretchBlt
+03/10/01 15:30:27  0 CreateTextureFromSurface
+03/10/01 15:30:27  22 Create track
+03/10/01 15:30:27  0 Texture size: 256 128
+03/10/01 15:30:27  0 Surface StretchBlt
+03/10/01 15:30:27  0 CreateTextureFromSurface
+03/10/01 15:30:28  0 Texture size: 256 128
+03/10/01 15:30:28  0 Surface StretchBlt
+03/10/01 15:30:28  0 CreateTextureFromSurface
+03/10/01 15:30:28  0 Texture size: 256 128
+03/10/01 15:30:28  0 Surface StretchBlt
+03/10/01 15:30:28  0 CreateTextureFromSurface
+03/10/01 15:30:28  23 Create track
+03/10/01 15:30:28  0 Texture size: 256 128
+03/10/01 15:30:28  0 Surface StretchBlt
+03/10/01 15:30:28  0 CreateTextureFromSurface
+03/10/01 15:30:29  0 Texture size: 256 128
+03/10/01 15:30:29  0 Surface StretchBlt
+03/10/01 15:30:29  0 CreateTextureFromSurface
+03/10/01 15:30:29  0 Texture size: 256 128
+03/10/01 15:30:29  0 Surface StretchBlt
+03/10/01 15:30:29  0 CreateTextureFromSurface
+03/10/01 15:30:29  24 Create track
+03/10/01 15:30:29  0 Texture size: 256 128
+03/10/01 15:30:29  0 Surface StretchBlt
+03/10/01 15:30:29  0 CreateTextureFromSurface
+03/10/01 15:30:30  0 Texture size: 256 128
+03/10/01 15:30:30  0 Surface StretchBlt
+03/10/01 15:30:30  0 CreateTextureFromSurface
+03/10/01 15:30:30  0 Texture size: 256 128
+03/10/01 15:30:30  0 Surface StretchBlt
+03/10/01 15:30:30  0 CreateTextureFromSurface
+03/10/01 15:30:30  25 Create track
+03/10/01 15:30:30  0 Texture size: 256 64
+03/10/01 15:30:30  0 Surface StretchBlt
+03/10/01 15:30:30  0 CreateTextureFromSurface
+03/10/01 15:30:31  0 Texture size: 256 64
+03/10/01 15:30:31  0 Surface StretchBlt
+03/10/01 15:30:31  0 CreateTextureFromSurface
+03/10/01 15:30:31  0 Texture size: 256 64
+03/10/01 15:30:31  0 Surface StretchBlt
+03/10/01 15:30:31  0 CreateTextureFromSurface
+03/10/01 15:30:31  26 Create track
+03/10/01 15:30:31  0 Texture size: 256 64
+03/10/01 15:30:31  0 Surface StretchBlt
+03/10/01 15:30:31  0 CreateTextureFromSurface
+03/10/01 15:30:31  0 Texture size: 256 64
+03/10/01 15:30:31  0 Surface StretchBlt
+03/10/01 15:30:31  0 CreateTextureFromSurface
+03/10/01 15:30:31  0 Texture size: 256 64
+03/10/01 15:30:31  0 Surface StretchBlt
+03/10/01 15:30:31  0 CreateTextureFromSurface
+03/10/01 15:30:32  27 Create track
+03/10/01 15:30:32  0 Texture size: 16 32
+03/10/01 15:30:32  0 Surface StretchBlt
+03/10/01 15:30:32  0 CreateTextureFromSurface
+03/10/01 15:30:32  0 Texture size: 16 32
+03/10/01 15:30:32  0 Surface StretchBlt
+03/10/01 15:30:32  0 CreateTextureFromSurface
+03/10/01 15:30:32  0 Texture size: 16 16
+03/10/01 15:30:32  0 Surface StretchBlt
+03/10/01 15:30:32  0 CreateTextureFromSurface
+03/10/01 15:30:32  28 Create track
+03/10/01 15:30:32  0 Texture size: 16 32
+03/10/01 15:30:32  0 Surface StretchBlt
+03/10/01 15:30:32  0 CreateTextureFromSurface
+03/10/01 15:30:32  0 Texture size: 16 32
+03/10/01 15:30:32  0 Surface StretchBlt
+03/10/01 15:30:32  0 CreateTextureFromSurface
+03/10/01 15:30:32  0 Texture size: 16 16
+03/10/01 15:30:32  0 Surface StretchBlt
+03/10/01 15:30:32  0 CreateTextureFromSurface
+03/10/01 15:30:32  29 Create track
+03/10/01 15:30:32  0 Texture size: 256 128
+03/10/01 15:30:32  0 Surface StretchBlt
+03/10/01 15:30:32  0 CreateTextureFromSurface
+03/10/01 15:30:32  0 Texture size: 256 128
+03/10/01 15:30:32  0 Surface StretchBlt
+03/10/01 15:30:32  0 CreateTextureFromSurface
+03/10/01 15:30:32  0 Texture size: 256 128
+03/10/01 15:30:32  0 Surface StretchBlt
+03/10/01 15:30:32  0 CreateTextureFromSurface
+03/10/01 15:30:32  30 Create track
+03/10/01 15:30:33  0 Texture size: 256 128
+03/10/01 15:30:33  0 Surface StretchBlt
+03/10/01 15:30:33  0 CreateTextureFromSurface
+03/10/01 15:30:33  0 Texture size: 256 128
+03/10/01 15:30:33  0 Surface StretchBlt
+03/10/01 15:30:33  0 CreateTextureFromSurface
+03/10/01 15:30:33  0 Texture size: 256 128
+03/10/01 15:30:33  0 Surface StretchBlt
+03/10/01 15:30:33  0 CreateTextureFromSurface
+03/10/01 15:30:33  0 Destroy dynamic render engine
+03/10/01 15:30:33  0 Load wagons
+03/10/01 15:30:35  0 Load decors
+03/10/01 15:30:36  0 Create DirectX objects
+03/10/01 15:30:36  42 Run application
+03/10/01 15:30:37  2 Size: 392 273

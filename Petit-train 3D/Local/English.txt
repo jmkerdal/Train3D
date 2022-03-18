@@ -1,0 +1,134 @@
+[MENU]
+File
+New
+Load
+Save
+#Visualisation#
+Printers
+Quit
+Edition
+Train
+Cut
+Copy
+Paste
+Inventory
+Carriages
+Decors
+Track
+Add
+Delete
+Origin
+Rotation
+About
+Parameters
+Select devices
+Insert
+Swap
+Delete
+[DRIVER]
+Selection
+OK
+Driver
+Disabled dynamic textures
+No track definition available
+Insert the CD-ROM
+[EDITION]
+Track
+Decor
+Valid
+Elements edit
+Nothing
+Load a decor
+Load a wagon
+Load a bogie
+Load rails definition
+Save rails definition
+Wagons list
+*Eccart entre les bogies
+Group A
+Group B
+*Position des essieux
+*Eccart essieux
+Width
+Ref
+Engine
+Electric
+Camera
+Select devices edition
+Time to start
+Load an inside
+[A PROPOS]
+About
+Version
+Build by Kerdal Jean-Michel
+Telephone
+[INVENTAIRE]
+Network elements inventory
+Print
+Board size
+Little train 3D
+Network name
+Network elements list
+Print error
+[PRINCIPALE]
+Current mode
+Edition
+View
+Beta version
+Network load
+Network save
+Confirm erase
+You need at least one wagon to start
+No engine in the train
+Decor rotation
+Angle in °
+Full screen
+On top
+Inside
+Follow
+Track rotation
+Do you want to replace this file
+[SAISIE TRAIN]
+Train composition
+Elevation
+*Catenaire
+Swap start direction
+Show sky
+[VUE]
+Network view
+Connect
+on
+Distance
+[VOIE]
+Track edition
+Track segment
+Width
+Ray
+Angle
+Rotation
+Size
+Points definition
+Offset
+Edge
+Jonction
+Connections
+*Aiguillages
+*Position caténaires
+N° Segment
+Position
+Direction
+Reference
+Name
+Do you want to delete this track
+[RAIL]
+Straight track
+Curve track
+Cross
+*Aiguillage
+*Aiguillage courbe
+*Double traverse jonction
+*Heurtoir
+left
+right
+triple
+Special

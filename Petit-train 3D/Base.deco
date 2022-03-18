@@ -1,0 +1,231 @@
+ 46 
+Maison 1
+Maison1
+.\Petit-train 3D\Textures\Decors\Maison 1\Maison 1.wall
+ 1 
+ 0  20  0 
+Quai
+Quai
+.\Petit-train 3D\Textures\Decors\Quai\Quai.wall
+ 1 
+ 0  20  0 
+Route droite
+Route
+.\Petit-train 3D\Textures\Decors\Route\Route droite.wall
+ 0 
+ 0  20  0 
+Route courbe
+RouteC
+.\Petit-train 3D\Textures\Decors\Route\Route courbe.wall
+ 0 
+ 0  20  0 
+R
+R
+.\Petit-train 3D\Textures\Decors\R\R.wall
+ 0 
+ 0  20  0 
+Z
+Z
+.\Petit-train 3D\Textures\Decors\Z\Z.wall
+ 0 
+ 0  20  0 
+Chapiteau
+Chapiteau
+.\Petit-train 3D\Textures\Decors\Chapiteau\Chapiteau.wall
+ 0 
+ 0  110  0 
+Gare n°1
+Gare1
+.\Petit-train 3D\Textures\Decors\Gare 1\Gare1b.wall
+ 0 
+ 0  20  0 
+Arbre
+Arbre
+.\Petit-train 3D\Textures\Decors\Arbres\Arbre.wall
+ 0 
+ 0  20  0 
+Arbre à fleur
+ArbreFleur
+.\Petit-train 3D\Textures\Decors\Arbres\Arbre fleur.wall
+ 0 
+ 0  20  0 
+Arbre A
+ArbreA
+.\Petit-train 3D\Textures\Decors\Arbres\Arbre_a.wall
+ 0 
+ 0  20  0 
+Arbre B
+ArbreB
+.\Petit-train 3D\Textures\Decors\Arbres\Arbre_b.wall
+ 0 
+ 0  20  0 
+Arbre C
+ArbreC
+.\Petit-train 3D\Textures\Decors\Arbres\Arbre_c.wall
+ 0 
+ 0  20  0 
+Bouleau
+Bouleau
+.\Petit-train 3D\Textures\Decors\Arbres\Bouleau.wall
+ 0 
+ 0  20  0 
+Chataigner
+Chataigner
+.\Petit-train 3D\Textures\Decors\Arbres\Chataigner.wall
+ 0 
+ 0  20  0 
+Hetre
+Hetre
+.\Petit-train 3D\Textures\Decors\Arbres\Hetre.wall
+ 0 
+ 0  20  0 
+Peuplier
+Peuplier
+.\Petit-train 3D\Textures\Decors\Arbres\Peuplier.wall
+ 0 
+ 0  20  0 
+Pins
+Pins
+.\Petit-train 3D\Textures\Decors\Arbres\Pins.wall
+ 0 
+ 0  20  0 
+Pommier
+Pommier
+.\Petit-train 3D\Textures\Decors\Arbres\Pommier.wall
+ 0 
+ 0  20  0 
+Saule
+Saule
+.\Petit-train 3D\Textures\Decors\Arbres\Saule.wall
+ 0 
+ 0  20  0 
+Cloture A
+ClotureA
+.\Petit-train 3D\Textures\Decors\Cloture\ClotureA.wall
+ 0 
+ 0  20  0 
+TT
+TT
+.\Petit-train 3D\Textures\Decors\TT\TT.wall
+ 0 
+ 0  20  0 
+30
+30
+.\Petit-train 3D\Textures\Decors\Vitesse\30.wall
+ 0 
+ 0  20  0 
+60
+60
+.\Petit-train 3D\Textures\Decors\Vitesse\60.wall
+ 0 
+ 0  20  0 
+90
+90
+.\Petit-train 3D\Textures\Decors\Vitesse\90.wall
+ 0 
+ 0  20  0 
+Fabrique
+Fabrique
+.\Petit-train 3D\Textures\Decors\Fabrique\Fabrique.wall
+ 0 
+-15  15  0 
+Fres
+Fres
+.\Petit-train 3D\Textures\Decors\Bloc 1\FRES\Fres.wall
+ 0 
+ 20  30 -50 
+Warehaus
+Warehaus
+.\Petit-train 3D\Textures\Decors\Warehaus\Warehaus.x
+ 0 
+ 0  50  0 
+Medbakery
+Medbakery
+.\Petit-train 3D\Textures\Decors\Bloc 1\medbakery\Medbakery.wall
+ 0 
+ 0  0  0 
+Sawmil
+Sawmil
+.\Petit-train 3D\Textures\Decors\Bloc 1\Sawmil\Sawmil.wall
+ 0 
+ 0  0  0 
+Station
+Station
+.\Petit-train 3D\Textures\Decors\Bloc 1\Sta\Sta.wall
+ 0 
+ 0  0  0 
+Water
+Water
+.\Petit-train 3D\Textures\Decors\Bloc 1\Wat\Wat.wall
+ 0 
+ 0  0  0 
+Bakery
+Bakery
+.\Petit-train 3D\Textures\Decors\Bloc 2\Bakery\Bakery.wall
+ 0 
+ 0  0  0 
+Brew
+Brew
+.\Petit-train 3D\Textures\Decors\Bloc 2\Brew\Brew.wall
+ 0 
+ 0  0  0 
+Cooprtv
+Cooprtv
+.\Petit-train 3D\Textures\Decors\Bloc 2\Cooprtv\Cooprtv.wall
+ 0 
+ 0  0  0 
+Crane
+Crane
+.\Petit-train 3D\Textures\Decors\Bloc 2\Crane\Crane.wall
+ 0 
+ 0  0  0 
+Cutsis
+Cutsis
+.\Petit-train 3D\Textures\Decors\Bloc 2\Cutscis\Cutsis.wall
+ 0 
+ 0  0  0 
+Elev
+Elev
+.\Petit-train 3D\Textures\Decors\Bloc 2\Elev\Elev.wall
+ 0 
+ 0  0  0 
+Morgan
+Morgan
+.\Petit-train 3D\Textures\Decors\Bloc 2\Morgan\Morgan.wall
+ 0 
+ 0  0  0 
+Pcement
+Pcement
+.\Petit-train 3D\Textures\Decors\Bloc 2\Pcement\Pcement.wall
+ 0 
+ 0  0  0 
+Relwrhs
+Relwrhs
+.\Petit-train 3D\Textures\Decors\Bloc 2\Relwrhs\Relwrhs.wall
+ 0 
+ 0  0  0 
+Soap work
+Soapwork
+.\Petit-train 3D\Textures\Decors\Bloc 2\Soapwork\Soapwork.wall
+ 0 
+ 0  0  0 
+Sstrsmk
+Sstrsmk
+.\Petit-train 3D\Textures\Decors\Bloc 2\Sstrsmk\Sstrsmk.wall
+ 0 
+ 0  0  0 
+Stocyrd
+Stocyrd
+.\Petit-train 3D\Textures\Decors\Bloc 2\Stocyrd\Stocyrd.wall
+ 0 
+ 0  0  0 
+Personnage 1
+Perso1
+.\Petit-train 3D\Textures\Decors\Perso\Perso1.wall
+ 0 
+ 0  15  0 
+Passage a niveau
+passage
+.\Petit-train 3D\Textures\Decors\Passage\Passage.wall
+ 0 
+ 30  20  50 

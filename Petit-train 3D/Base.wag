@@ -1,0 +1,115 @@
+ 19 
+Loco diesel 1
+Diesel1
+.\Petit-train 3D\Textures\Wagon\Loco diesel 1\Loco diesel 1.wall
+.\Petit-train 3D\Textures\Wagon\Loco diesel 1\Loco bogie.wall
+
+ 1  32.5  32.5  100  196.5  1  0  6  18  28 
+Wagon marchandise 1
+Wagon1
+.\Petit-train 3D\Textures\Wagon\Wagon 1\Wagon marchandise 1.wall
+
+
+ 1  0  0  50  106  0  0  0  15  0 
+Wagon marchandise 2
+Wagon2
+.\Petit-train 3D\Textures\Wagon\Wagon 2\Wagon marchandise 2.wall
+.\Petit-train 3D\Textures\Wagon\Wagon 2\Wagon bogie 2.wall
+
+ 1  20  20  106  152  0  0  0  15  0 
+Wagon marchandise 3
+Wagon3
+.\Petit-train 3D\Textures\Wagon\Wagon 3\Wagon marchandise 3.wall
+
+
+ 1  0  0  76  136  0  0  0  15  0 
+Banlieu 1
+Banlieu 1
+.\Petit-train 3D\Textures\Wagon\Banlieu\Banlieu 1.wall
+.\Petit-train 3D\Textures\Wagon\Banlieu\Banlieu bogie.wall
+.\Petit-train 3D\Textures\Wagon\Banlieu\Interieur.wall
+ 0  32.5  32.5  204  300  0  0  0  5 -93 
+Banlieu 2
+Banlieu 2
+.\Petit-train 3D\Textures\Wagon\Banlieu\Banlieu 2.wall
+.\Petit-train 3D\Textures\Wagon\Banlieu\Banlieu bogie.wall
+.\Petit-train 3D\Textures\Wagon\Banlieu\Interieur.wall
+ 0  32.5  32.5  204  300  0  0  0  5 -93 
+Banlieu 3
+Banlieu 3
+.\Petit-train 3D\Textures\Wagon\Banlieu\Banlieu 3.wall
+.\Petit-train 3D\Textures\Wagon\Banlieu\Banlieu bogie.wall
+.\Petit-train 3D\Textures\Wagon\Banlieu\Interieur.wall
+ 0  32.5  32.5  204  300  0  0  0  5 -93 
+Banlieu 4
+Banlieu 4
+.\Petit-train 3D\Textures\Wagon\Banlieu\Banlieu 4.wall
+.\Petit-train 3D\Textures\Wagon\Banlieu\Banlieu bogie.wall
+.\Petit-train 3D\Textures\Wagon\Banlieu\Interieur.wall
+ 0  32.5  32.5  204  300  0  0  0  5 -93 
+Motrice banlieu
+Motrice banlieu
+.\Petit-train 3D\Textures\Wagon\Banlieu\Motrice.wall
+.\Petit-train 3D\Textures\Wagon\Banlieu\Motrice bogie.wall
+
+ 0  19  19  90  153  1  1  10  20  10 
+Motrice BB 25500
+Motrice BB 25500
+.\Petit-train 3D\Textures\Wagon\BB 25500\Motrice BB.wall
+.\Petit-train 3D\Textures\Wagon\Banlieu\Motrice bogie.wall
+
+ 0  19  19  90  153  1  1  10  20  10 
+Banlieu orange 1
+Banlieu orange 1
+.\Petit-train 3D\Textures\Wagon\Banlieu orange\Banlieu orange 1.wall
+.\Petit-train 3D\Textures\Wagon\Banlieu\Banlieu bogie.wall
+.\Petit-train 3D\Textures\Wagon\Banlieu\Interieur.wall
+ 0  32.5  32.5  204  300  0  0  0  5 -93 
+Banlieu orange 2
+Banlieu orange 2
+.\Petit-train 3D\Textures\Wagon\Banlieu orange\Banlieu orange 2.wall
+.\Petit-train 3D\Textures\Wagon\Banlieu\Banlieu bogie.wall
+.\Petit-train 3D\Textures\Wagon\Banlieu\Interieur.wall
+ 0  32.5  32.5  204  300  0  0  0  5 -93 
+Banlieu orange 3
+Banlieu orange 3
+.\Petit-train 3D\Textures\Wagon\Banlieu orange\Banlieu orange 3.wall
+.\Petit-train 3D\Textures\Wagon\Banlieu\Banlieu bogie.wall
+.\Petit-train 3D\Textures\Wagon\Banlieu\Interieur.wall
+ 0  32.5  32.5  204  300  0  0  0  5 -93 
+Banlieu orange 4
+Banlieu orange 4
+.\Petit-train 3D\Textures\Wagon\Banlieu orange\Banlieu orange 4.wall
+.\Petit-train 3D\Textures\Wagon\Banlieu\Banlieu bogie.wall
+.\Petit-train 3D\Textures\Wagon\Banlieu\Interieur.wall
+ 0  32.5  32.5  204  300  0  0  0  5 -93 
+Wagon marchandise 4
+Cat
+.\Petit-train 3D\Textures\Wagon\Cat\Cat.wall
+
+
+ 0  0  0  76  136  0  0  0  15 -40 
+Wagon marchandise 5
+Mns
+.\Petit-train 3D\Textures\Wagon\MNS\Mns.wall
+
+
+ 0  0  0  76  136  0  0  0  15  0 
+Wagon marchandise 6
+Ame
+.\Petit-train 3D\Textures\Wagon\Ame\Ame.wall
+
+
+ 0  0  0  76  136  0  0  0  15  0 
+Wagon marchandise 7
+5263
+.\Petit-train 3D\Textures\Wagon\5263\5263.wall
+
+
+ 0  0  0  50  106  0  0  0  15  0 
+Shell tank
+Tank-Shell
+.\Petit-train 3D\Textures\Wagon\Reservoir\Reservoir.wall
+
+
+ 0  0  0  60  116  0  0  0  15  0 

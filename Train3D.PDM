@@ -1,0 +1,113 @@
+[Root]
+Most Recent Package=Logiciel d'installation standard 1
+
+
+[Package|Logiciel d'installation standard 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\WINDOWS\Bureau\Dev\DX7\Lddms\Package
+
+[Package|Logiciel d'installation standard 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Logiciel d'installation standard 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Logiciel d'installation standard 1|Files Found]
+
+[Package|Logiciel d'installation standard 1|Files Released]
+
+[Package|Logiciel d'installation standard 1|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\dx7vb.dll=
+
+[Package|Logiciel d'installation standard 1|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\scrrun.dll=
+
+[Package|Logiciel d'installation standard 1|Files Added]
+
+[Package|Logiciel d'installation standard 1|Files Removed]
+c:\windows\system\dx7vb.dll=
+
+[Package|Logiciel d'installation standard 1|Files In Project]
+D:\WINDOWS\Bureau\Dev\DX7\Lddms\Train3D.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\VB6FR.DLL=Yes
+C:\WINDOWS\SYSTEM\dx7vb.dll=No
+C:\WINDOWS\SYSTEM\scrrun.dll=Yes
+C:\WINDOWS\SYSTEM\MSVCRT.DLL=Yes
+C:\WINDOWS\SYSTEM\scrrnfr.dll=Yes
+C:\WINDOWS\SYSTEM\comdlg32.ocx=Yes
+C:\WINDOWS\SYSTEM\CMDLGFR.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCMCFR.DLL=Yes
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\SYSTEM\tabctl32.ocx=Yes
+C:\WINDOWS\SYSTEM\TABCTFR.DLL=Yes
+
+[Package|Logiciel d'installation standard 1|Configure Registry Files]
+Applicable=No
+
+[Package|Logiciel d'installation standard 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Logiciel d'installation standard 1|Install Locations]
+D:\WINDOWS\Bureau\Dev\DX7\Lddms\Train3D.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB6FR.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\dx7vb.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\scrrnfr.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMDLGFR.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCMCFR.DLL=$(WinSysPath)
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\tabctl32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTFR.DLL=$(WinSysPath)
+
+[Package|Logiciel d'installation standard 1|Configure Shared Files]
+Applicable=Yes
+D:\WINDOWS\Bureau\Dev\DX7\Lddms\Train3D.exe=No
+
+[Package|Logiciel d'installation standard 1|Distribution]
+Type=single
+Size=
+Title=Train3D
+
+[Package|Logiciel d'installation standard 1|Package]
+PackageFolder=D:\WINDOWS\Bureau\Dev\DX7\Lddms\Package
+ProjectFolder=D:\WINDOWS\Bureau\Dev\DX7\Lddms
+ServerSideCab=
+File1=D:\WINDOWS\Bureau\Dev\DX7\Lddms\Package\setup.exe
+File2=D:\WINDOWS\Bureau\Dev\DX7\Lddms\Package\Setup.Lst
+File3=D:\WINDOWS\Bureau\Dev\DX7\Lddms\Package\Train3D.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Logiciel d'installation standard 1|IconGroups]
+Group0=Train3D
+PrivateGroup0=Faux
+Parent0=$(Programs)
+
+[Package|Logiciel d'installation standard 1|Train3D]
+Icon1=Train3D.exe
+Title1=Train3D
+StartIn1=$(AppPath)
+Key1=Icon1
