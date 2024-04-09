@@ -13,3 +13,4 @@ Quelques parties dans le code sont intéressantes à étudier (de mon avis) :
 L'outil "Wall3D" qui me servais à concevoir des modèles 3D simples avec des textures transparentes. Ce que ne permettait pas les fichiers .x de Microsoft de l'époque.
 
 Contact : jeanmichel.kerdal@free.fr
+Site web de l'époque vintage: http://trainsimulator.free.fr/index_fr.htm
